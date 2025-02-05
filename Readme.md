@@ -16,7 +16,7 @@ A simple translator application built using **Go** and **Fyne**. This app provid
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/yourusername/translator-app.git
+git clone https://github.com/magdev2022/TranslatorApp.git
 cd translator-app
 ```
 
